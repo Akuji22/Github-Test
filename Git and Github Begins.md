@@ -9,4 +9,8 @@
 * GitHub -> A website to host your repositories online
 
 **Git Commands**
-* Clone
+* Clone -> bring a repository that is hosted somewhere like GitHub into a folder on your local machine
+* add -> track your files and changes in Git
+* commit -> save your files in Git
+* push -> upload Git commits to a remote repo, like GitHub
+* pull -> download changes from the remote repo to your local machine, the opposite of push
